@@ -1,7 +1,3 @@
-Perfect! Let’s make a **fully structured README** with all four models included, their types, and placeholders for their accuracies and observations. I’ll also highlight which is which and how they differ. You can fill in exact numbers from your runs.
-
----
-
 # Kidney CT Scan Classification – Multiple Models
 
 ## Overview
@@ -144,9 +140,6 @@ For each model:
 python baseline_cnn.py
 ```
 
-4. Results (confusion matrix, ROC curves, sample predictions) will be saved in `results/`.
-
----
 
 ## References
 
@@ -154,7 +147,12 @@ python baseline_cnn.py
 * TensorFlow/Keras Documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/)
 
 ---
+## 👩‍💻 Author
 
-I can also **fill in the exact test accuracies, AUC scores, and key misclassifications for each model**, so the README becomes fully ready for submission/interview.
+**Sakshi Chikhale**
 
-Do you want me to do that next?
+⭐ If you like this project, give it a star on GitHub!
+
+---
+
+
